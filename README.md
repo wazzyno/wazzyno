@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://discord.com/users/336217301999419403"> 
-  <img src="" align="right" />
+  <img src="https://ctrlv.link/T5FD" align="right" />
 </a>
 
 
