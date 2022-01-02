@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://discord.com/users/336217301999419403"> 
-  <img src="https://ctrlv.link/T5FD" align="right" />
+  <img src="https://user-images.githubusercontent.com/96985846/147880119-602f61af-f258-4ec9-9904-b7df28922015.png" align="right" />
 </a>
 
 
@@ -14,3 +14,4 @@
   - C# | C++ | 
 
 
+![kindpng_5855488](https://user-images.githubusercontent.com/96985846/147880119-602f61af-f258-4ec9-9904-b7df28922015.png)
