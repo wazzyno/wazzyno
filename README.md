@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://discord.com/users/336217301999419403"> 
-  <img src="https://www.kindpng.com/picc/m/585-5855488_discord-purple-discord-png-transparent-png.png" align="right" />
+  <img src="https://png1.12png.com/t/25/12/4/TAy6B4a3Gf/smiley-emoticon-computer-servers-rectangle-share-icon.jpg" align="right" />
 </a>
 
 
