@@ -9,7 +9,7 @@
 
 - 🍇 I’m interested in Graphic Design and Video Editing
 - 🔮 I’m currently learning:
-  - | Pr | Ae | Ps | Ai | Lr | 
+  - | Pr | Ae | Ps | Ai | Lr | Blender
   - | PHP | HTML | CSS | JavaScript
   - | C# | C++ | 
 
